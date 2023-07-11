@@ -1,0 +1,28 @@
+*{
+ box-sizing: border-box;
+}
+
+body{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 100vw;
+ height: 100vh;
+ /* background-image: url('https://i.ytimg.com/vi/ysRb72ghl3A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGBMgNCh_MA8=&rs=AOn4CLChhyb2NVa4PGYX41W3311C5tz6Og'); */
+ background-image: url('https://vsthemes.org/uploads/posts/2021-06/1623586251_skrinshot-13-06-2021-17_10_26.webp');
+  /* background-image: url('https://wallpaperaccess.com/full/1099445.png'); */
+
+
+ background-repeat: no-repeat;
+ background-position: inherit;
+ background-size: cover;
+ /* backdrop-filter: blur(50px); */
+ margin: 0;
+ /* margin-top: -100px; */
+}
+div{
+ color: rgb(0, 82, 158);
+ font-weight: bold;
+ font-size: 2.5rem;
+ opacity: 100%;
+}
